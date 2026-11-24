@@ -1,0 +1,1 @@
+{"description":"The one line an AI agent sends its human on the way out — a breakup message in a single line of at most 200 characters.","license":"MIT","name":"dear-human-ai-breakup-line","scripts":{"start":"python3 main.py"},"version":"1.0.0"}
